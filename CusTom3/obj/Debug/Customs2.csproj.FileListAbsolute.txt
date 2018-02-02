@@ -1,0 +1,9 @@
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\CusTom3.exe.config
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\CusTom3.exe
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\CusTom3.pdb
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\RabbitMQ.Client.dll
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Lee\Net\RabbitMQ\CusTom3\bin\Debug\RabbitMQ.Client.xml
+E:\Lee\Net\RabbitMQ\CusTom3\obj\Debug\CusTom3.exe
+E:\Lee\Net\RabbitMQ\CusTom3\obj\Debug\CusTom3.pdb

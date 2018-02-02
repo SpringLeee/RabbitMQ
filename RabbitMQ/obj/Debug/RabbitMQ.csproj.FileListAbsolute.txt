@@ -1,0 +1,9 @@
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+E:\Lee\Net\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+E:\Lee\Net\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb

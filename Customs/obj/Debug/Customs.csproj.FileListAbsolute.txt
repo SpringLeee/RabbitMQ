@@ -1,0 +1,10 @@
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\Customs.exe.config
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\Customs.exe
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\Customs.pdb
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\RabbitMQ.Client.dll
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Lee\Net\RabbitMQ\Customs\bin\Debug\RabbitMQ.Client.xml
+E:\Lee\Net\RabbitMQ\Customs\obj\Debug\Customs.exe
+E:\Lee\Net\RabbitMQ\Customs\obj\Debug\Customs.pdb
+E:\Lee\Net\RabbitMQ\Customs\obj\Debug\Customs.csprojResolveAssemblyReference.cache
