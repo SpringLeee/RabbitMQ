@@ -13,26 +13,14 @@ namespace RabbitMQ
     {
         static void Main(string[] args)
         {
-
-            ConnectionFactory factory = new ConnectionFactory { HostName = "localhost" };
-            using (IConnection conn = factory.CreateConnection())
+            for (int i = 0; i < 100; i++)
             {
-                using (IModel im = conn.CreateModel())
-                {
-                    im.ExchangeDeclare("rabbitmq_route", ExchangeType.Direct);
-                    im.QueueDeclare("rabbitmq_query", true, false, false, null);
-                    im.QueueBind("rabbitmq_query", "rabbitmq_route", ExchangeType.Direct, null);
+                Thread.Sleep(600);
 
-                    Parallel.For(1,1000, i=> {
 
-                        byte[] message = Encoding.UTF8.GetBytes("Hello --  " + i);
-                        im.BasicPublish("rabbitmq_route", ExchangeType.Direct, null, message);
-                        Console.WriteLine("send -- " + i);
+                Delivery.Send(i.ToString());
 
-                    });
-                    
-                    Console.ReadKey();
-                }
+                Console.WriteLine("Send :" + i );
             }
 
         }

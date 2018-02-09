@@ -3,3 +3,4 @@ E:\Lee\Net\RabbitMQ\Logs\bin\Debug\Logs.exe
 E:\Lee\Net\RabbitMQ\Logs\bin\Debug\Logs.pdb
 E:\Lee\Net\RabbitMQ\Logs\obj\Debug\Logs.exe
 E:\Lee\Net\RabbitMQ\Logs\obj\Debug\Logs.pdb
+E:\Lee\Net\RabbitMQ\Logs\obj\Debug\Logs.csprojResolveAssemblyReference.cache

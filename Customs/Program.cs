@@ -20,15 +20,13 @@ namespace Customs
                 {
                     while (true)
                     {
-                        BasicGetResult res = im.BasicGet("rabbitmq_query", true);
+                        BasicGetResult res = im.BasicGet("Logs", true);
                        
                         if (res != null)
                         {
-                            
 
-                            Console.WriteLine("receiver:" + UTF8Encoding.UTF8.GetString(res.Body));
+                            Console.WriteLine("receive :" + UTF8Encoding.UTF8.GetString(res.Body));
                         }
-
                     }
 
                 }
