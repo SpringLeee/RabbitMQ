@@ -24,18 +24,7 @@ namespace Customs
                        
                         if (res != null)
                         {
-
-                                FileStream fs = new FileStream(@"E://log.txt", FileMode.Append);
-
-                                StreamWriter sw = new StreamWriter(fs);
-                                //开始写入
-                                sw.Write(DateTime.Now.ToString() + "      " + UTF8Encoding.UTF8.GetString(res.Body) + "\r\n");
-                                //清空缓冲区
-                                sw.Flush();
-                                //关闭流
-                                sw.Close();
-                                fs.Close();
-
+                            
 
                             Console.WriteLine("receiver:" + UTF8Encoding.UTF8.GetString(res.Body));
                         }
