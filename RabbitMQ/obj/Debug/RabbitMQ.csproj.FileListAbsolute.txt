@@ -7,3 +7,4 @@ E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource
 E:\Lee\Net\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
 E:\Lee\Net\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
 E:\Lee\Net\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
+E:\Lee\Net\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csprojResolveAssemblyReference.cache
