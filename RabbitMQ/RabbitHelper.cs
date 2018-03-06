@@ -9,6 +9,8 @@ namespace RabbitMQ
 {
     public static  class Delivery
     {
+          
+
 
         public static string HostName = "localhost";
         public static int Port = 5672;
